@@ -16,5 +16,11 @@ fruits.reverse();
 console.log(fruits)
 
 // Exercice 2
+
+/*****************************
+Correcteur: Yannick GOUGUIA
+
+Merci de revoir cet exercice
+******************************/
 const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 console.log(fruits[2]);
