@@ -16,5 +16,13 @@ fruits.reverse();
 console.log(fruits)
 
 // Exercice 2
+/**
+Correcteur: Yannick GOUGUA
+
+Reponse incorrecte, merci revoir la methode de recuperation des éléments dans un tableau.
+il faut d'obard identifer le nombre de tableau contenu dans le tableau principal
+
+il faut penser a tester vos reponse
+*/
 const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
 console.log(fruits[2]);
